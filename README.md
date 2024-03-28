@@ -1,7 +1,7 @@
-Web Engineer.  
-I'm making HTML5 Games.
+Indie game developer.
+Making games with Phavuer, a Vue library.
 
-Check my Website → https://laineus.com
+Website → https://laineus.com
 ![](https://github.com/laineus/unsung-kingdom/blob/master/public/img/ss/multiple.png)
 
 <!--
