@@ -1,5 +1,5 @@
 Indie game developer.  
-Making games with Phavuer, a Vue library.
+Making games with [Phavuer](https://github.com/laineus/phavuer), a Vue library.
 
 Website → https://laineus.com
 ![](https://github.com/laineus/unsung-kingdom/blob/master/public/img/ss/multiple.png)
