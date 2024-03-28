@@ -1,4 +1,4 @@
-Indie game developer.
+Indie game developer.  
 Making games with Phavuer, a Vue library.
 
 Website → https://laineus.com
